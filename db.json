@@ -1,7 +1,9 @@
 {
-    "id": 1,
-    "name": "John Doe",
-    "email": "john.doe@example.com",
-    "phone": "123-456-7890",
-    "address": "123 Main St, City, Country"
+  "user": {
+  "id": 1,
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "123-456-7890",
+  "address": "123 Main St, City, Country"
+}
 }
