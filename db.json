@@ -7,5 +7,5 @@
   "address": "123 Main St, City, Country"
 },
 
-  "update": {"message": "success"}
+  "update_user": {"message": "success"}
 }
